@@ -44,3 +44,7 @@ h1:hover span:nth-child(1){
 h1:hover span:nth-child(1):after{
     content: " A";
 }
+
+h1:hover span:nth-child(2){
+    margin-left: 30px;
+}
